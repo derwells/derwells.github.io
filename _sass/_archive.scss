@@ -15,7 +15,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -63,6 +63,7 @@
 
   & + p {
     text-indent: 0;
+    font-size: 0.9em;
   }
 }
 

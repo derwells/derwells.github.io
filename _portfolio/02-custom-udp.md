@@ -1,7 +1,8 @@
 ---
 title: "Adaptive Sender for Custom Protocol over UDP"
 excerpt: "Created an efficient sender-side program for a custom protocol built over UDP. Simulated restrictions include: payload size, queue size, and processing delay.<br/><br/>"
-collection: portfolio
+collection: projects
+share: False
 ---
 
 This is a capstone project for CS 145 -- an undergraduate networking class.
