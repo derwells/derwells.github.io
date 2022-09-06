@@ -27,7 +27,7 @@ where $n_{\text{chars}}$ is the total number of characters in the given payload 
 
 $n_{\text{chars}}$ is already known given the payload. $d_{\text{rtt}}$ is estimated by sending a packet with a single character. This guarantees that the packet is always ack'd.
 
-## Other quirks
+### Other quirks
 
 The sender program can recognize whether ack's correspond to a retransmitted packet or not.
 
