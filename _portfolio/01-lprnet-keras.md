@@ -1,6 +1,6 @@
 ---
 title: "Keras Implementation of LPRNet"
-excerpt: "Implemented the <a href='https://arxiv.org/abs/1806.10447'>LPRNet paper</a> as a capstone project <br/><br/>"
+excerpt: "Implemented the <a href='https://arxiv.org/abs/1806.10447'>LPRNet paper</a> as a capstone project."
 collection: projects
 share: False
 ---

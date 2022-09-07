@@ -1,6 +1,6 @@
 ---
 title: "Tree Crown Detection using FCOS"
-excerpt: "Tests the feasibility of using FCOS over RetinaNet on the <a href='https://zenodo.org/record/3765872'>NEON Tree Crowns Dataset</a>. Built on top of the <a href='https://deepforest.readthedocs.io/'>DeepForest package</a>. <br/><br/>"
+excerpt: "Tests the feasibility of using FCOS over RetinaNet on the <a href='https://zenodo.org/record/3765872'>NEON Tree Crowns Dataset</a>. Built on top of the <a href='https://deepforest.readthedocs.io/'>DeepForest package</a>."
 teaser: "/images/crownns-merged-bboxes.png"
 collection: projects
 share: False

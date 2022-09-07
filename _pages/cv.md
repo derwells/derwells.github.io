@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "cv"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,5 +10,3 @@ redirect_from:
 {% include base_path %}
 
 <iframe src="/files/Wells__William_Frederic_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
-Click [here](/files/Wells__William_Frederic_CV.pdf) to download my CV.

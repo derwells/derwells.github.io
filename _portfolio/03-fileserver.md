@@ -1,6 +1,6 @@
 ---
 title: "Multithreaded Fileserver in C from Scratch"
-excerpt: "Built a multithreaded fileserver using the `pthread` library in C. Served as the capstone project for my Operating Systems class<br/><br/>"
+excerpt: "Built a multithreaded fileserver using the `pthread` library in C. Served as the capstone project for my operating systems class."
 collection: projects
 share: False
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Sender for Custom Protocol over UDP"
-excerpt: "Created an efficient sender-side program for a custom protocol built over UDP. Simulated restrictions include: payload size, queue size, and processing delay.<br/><br/>"
+excerpt: "Created an efficient sender-side program for a custom protocol built over UDP. Simulated restrictions include: payload size, queue size, and processing delay."
 collection: projects
 share: False
 ---
