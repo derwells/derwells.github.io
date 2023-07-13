@@ -9,8 +9,8 @@ redirect_from:
 
 Hi, I'm Derick Wells.
 
-I'm a Computer Science undergrad at the University of the Philippines Diliman. My (productive) free time is spent dabbling in computer vision, classical machine learning, and computer systems.
+I'm a graduating computer science student at the University of the Philippines Diliman. My productive free time is spent on a mix of machine learning and computer systems.
 
-I've interned in [Thinking Machines Data Science](https://thinkingmachin.es/) as a Data Engineer and a Machine Learning Engineer.
+For work, I've interned in [Thinking Machines Data Science](https://thinkingmachin.es/) as a Data Engineer and a Machine Learning Engineer. Since 2021, I've helped out in upgrading and maintaing my university's in-house LMS serving ~10k users.
 
-For leisure, I enjoy swimming and learning the piano.
+I used to swim competitively but I'm much more into [bouldering](https://en.wikipedia.org/wiki/Bouldering) now.

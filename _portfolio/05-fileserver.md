@@ -5,13 +5,10 @@ collection: projects
 share: False
 ---
 
-
-A naive concurrent file server implementation made for the completion of CS 140 -- an undergraduate OS class.
-
 As per project specs, each command has an associated worker thread. Worker threads are grouped by their target filepath `<path>`. Worker threads in a group are organized using hand-over-hand locking. This ensures that older threads in a group must run first before newer threads can.
 
 ![](/images/fileserver-idea.png)
 
 ## Source code
 
-Being a class project, source code and documentation are only given upon request.
+Check out [this repo](https://github.com/derwells/multithreaded-fileserver).
